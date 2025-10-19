@@ -34,16 +34,25 @@ Tambahan file:
 
 ---
 
-## 🖼️ Screenshot (Preview)  
-> Tambahkan screenshot tampilan websitemu di sini  
-![Preview Website](img/screenshot.png)
+## 🖼️ Screenshot (Preview)
+
+Berikut beberapa tampilan dari website portofolio saya:
+
+![Tampilan Utama](img/sc1.png)
+![Tampilan About / Experience](img/sc2.png)  
+![Tampilan Achievement](img/sc3.png)
+![Tampilan Experience](img/sc4.png)
+![Tampilan Let's Connect & Footer](img/sc5.png)
+![Tampilan Sheet Achievement](img/sc6.png)
+![Tampilan Sheet Experience1](img/sc7.png)
+![Tampilan Sheet Experience2](img/sc8.png)
 
 ---
 
 ## 🔗 Link Proyek  
 - 🌍 **Live Demo (Vercel):** [https://myportofolio-pied.vercel.app/](https://myportofolio-pied.vercel.app/)  
 - 📁 **Source Code (GitHub):** [https://github.com/njhbil/myportofolio](https://github.com/njhbil/myportofolio)  
-- 🎥 **Video Presentasi YouTube:** *(Tambahkan link video setelah diunggah)*  
+- 🎥 **Video Presentasi YouTube:** [https://youtu.be/f3FppGMS0M8](https://youtu.be/f3FppGMS0M8))  
 
 ---
 
