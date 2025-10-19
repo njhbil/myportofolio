@@ -1,42 +1,70 @@
-```markdown
-# My Portofolio
+# My Portfolio – Nabil Akbar  
+**Kelas:** 2024C  
+**NIM:** 24051204074  
+**Mata Kuliah:** Pemrograman Berbasis Platform (PBP) – Semester Ganjil 2025/2026  
+**Judul Proyek:** Website Portofolio Pribadi
 
-Deskripsi singkat:
-Proyek ini adalah website portofolio pribadi yang menampilkan informasi tentang saya, karya, dan kontak. Dibangun menggunakan HTML dan CSS (komposisi repo: ~92% HTML, ~8% CSS). Tujuan proyek ini adalah menunjukkan kemampuan dasar pembuatan halaman web statis dan desain responsif sederhana.
+---
 
-Tata cara melihat/proyek berjalan:
-1. Pastikan seluruh source code (termasuk file `index.html`, folder `css/`, dan aset seperti gambar) sudah di-push ke repository.
-2. Buka file `index.html` di browser (klik ganda atau buka dengan `File → Open`), deploy ke hosting pilihan, atau lihat versi yang sudah dideploy.
+## 📌 Deskripsi Proyek  
+Proyek ini adalah sebuah website portofolio pribadi yang menampilkan profil saya, pengalaman kerja, kegiatan organisasi, proyek‐proyek yang pernah saya kerjakan, serta cara menghubungi saya.  
+Website ini dibangun sebagai tugas mandiri dengan tujuan untuk menerapkan materi front-end yaitu HTML, CSS, framework CSS (Bootstrap versi 5.3.8), dan JavaScript dasar untuk interaktivitas.
 
-Link demo & deploy:
-- Video demo YouTube: https://youtu.be/f3FppGMS0M8
-- Deploy (Vercel): https://myportofolio-pied.vercel.app/
+---
 
-Screenshot:
-Tambahkan screenshot tampilan website di folder `assets/` (mis. `assets/screenshot.png`) supaya gambar tampil di README.
+## 🔧 Teknologi yang Digunakan  
+- **HTML5** untuk struktur dasar halaman  
+- **CSS (native buatan sendiri)** untuk beberapa bagian khusus (misalnya header, footer, card)  
+- **Bootstrap 5.3.8** sebagai framework CSS untuk layout responsif dan komponen siap pakai  
+- **JavaScript sederhana** untuk animasi saat scroll (Intersection Observer) dan transisi badge/progress  
 
-![Tampilan Website](assets/screenshot.png)
+---
 
-Struktur repository (contoh):
-- index.html
-- css/
-  - styles.css
-- assets/
-  - screenshot.png
-  - gambar-lain.png
+## 🗂 Struktur Halaman  
+Website terdiri dari minimal 3 halaman yang saling terhubung:  
+- **index.html** → Beranda (Home)  
+- **achievement.html** → Halaman Prestasi/Achievements  
+- **experience.html** → Halaman Pengalaman (Professional, Organisasi, Proyek, Kegiatan Ambassador)  
+- **style.css** → File CSS tambahan khusus styling buatan sendiri  
+- Folder-folder: `css/`, `img/`, `js/` (jika ada script eksternal)  
 
-Checklist sebelum dianggap lengkap:
-- [x] Upload seluruh source code ke repository (HTML, CSS, aset)
-- [x] File README.md berisi deskripsi singkat proyek (file ini)
-- [ ] Tambahkan screenshot tampilan website ke `assets/screenshot.png`
-- [x] Tambahkan link video YouTube (tercantum di atas)
-- [x] Tambahkan link deployment (Vercel) (tercantum di atas)
+---
 
-Langkah selanjutnya:
-- Letakkan screenshot di `assets/screenshot.png` atau ubah path pada README sesuai lokasi file.
-- Commit & push semua file ke branch utama (mis. `main`) agar README dan source tersedia di GitHub.
-- (Opsional) Aktifkan GitHub Pages jika ingin versi statis tersedia via GitHub Pages, atau biarkan deploy Vercel yang sudah aktif.
+## 📷 Screenshot (Preview)  
+> Tambahkan screenshot tampilan website kamu di folder `img/` atau `assets/` kemudian sesuaikan link di bawah ini.  
+![Tampilan Website](img/screenshot.png)  
 
-Lisensi:
-Silakan tambahkan file LICENSE jika ingin menambahkan lisensi open-source (mis. MIT).
-```
+---
+
+## ▶️ Demo & Link Presentasi  
+- Video presentasi di YouTube: **[Judul YouTube kamu]**  
+- Link deploy (jika sudah di-hosting): *masukkan link deploy di sini*  
+
+---
+
+## ✅ Checklist Pengerjaan  
+- [x] Seluruh source code (HTML, CSS, aset-gambar) sudah di-upload ke GitHub  
+- [x] File README.md berisi deskripsi singkat proyek (file ini)  
+- [x] Tambahkan screenshot tampilan website  
+- [x] Tambahkan link video YouTube  
+- [x] Tambahkan link deploy atau demonstrasi website  
+
+---
+
+## 📝 Catatan & Tips  
+- Pastikan saat membuka website secara lokal atau via hosting, semua **path** ke gambar, CSS, dan JavaScript berfungsi dan tidak broken.  
+- Gunakan browser responsif untuk mengecek tampilan di berbagai ukuran layar (desktop, tablet, mobile).  
+- Untuk animasi kartu dan badge sudah menggunakan JavaScript Intersection Observer dan transisi CSS agar pengalaman pengguna lebih menarik.  
+- Jika ingin publikasi open-source, bisa tambahkan file LICENSE (misalnya lisensi MIT) di root repo.
+
+---
+
+## 👤 Tentang Saya  
+Nama: Nabil Akbar  
+NIM: 24051204074  
+Email/Media Sosial: *masukkan jika ingin*  
+LinkedIn / GitHub: *masukkan profil jika ingin*  
+
+---
+
+Terima kasih telah melihat proyek saya. Semoga website ini dapat memberikan gambaran yang baik tentang kemampuan saya dalam pengembangan front-end.  
