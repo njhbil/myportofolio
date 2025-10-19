@@ -56,18 +56,6 @@ Berikut beberapa tampilan dari website portofolio saya:
 
 ---
 
-## ✅ Checklist Pengerjaan  
-- [x] Menggunakan HTML untuk struktur halaman  
-- [x] Menggunakan CSS buatan sendiri  
-- [x] Menggunakan framework CSS (Bootstrap)  
-- [x] Menambahkan JavaScript interaktif  
-- [x] Terdiri dari minimal 3 halaman web  
-- [x] Diupload ke GitHub  
-- [x] Dideploy ke Vercel  
-- [ ] Upload video presentasi ke YouTube  
-
----
-
 ## 💡 Fitur Utama  
 - Navigasi dinamis dengan efek highlight halaman aktif  
 - Animasi *scroll reveal* menggunakan JavaScript (Intersection Observer)  
@@ -80,8 +68,7 @@ Berikut beberapa tampilan dari website portofolio saya:
 ## 👤 Tentang Saya  
 **Nama:** Nabil Akbar  
 **NIM:** 24051204074  
-**Kelas:** 2024A  
-**Email:** *(tambahkan jika ingin)*  
+**Kelas:** 2024C  
 **LinkedIn:** [linkedin.com/in/nabil-akbar-a8991a326](https://www.linkedin.com/in/nabil-akbar-a8991a326/)  
 **GitHub:** [github.com/njhbil](https://github.com/njhbil)  
 
