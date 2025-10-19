@@ -1,0 +1,170 @@
+        .hero {
+            position: relative;
+            height: 100vh;
+        }
+
+        .hero img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .hero-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-100%, -50%);
+            text-align: center;
+            color: rgb(55, 105, 4);
+            font-family: 'Lexend Mega', serif;
+        }
+
+        .oi-regular {
+            font-family: "Oi", serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .rubik-gemstones-regular {
+            font-family: "Rubik Gemstones", system-ui;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .lexend-mega-normal {
+            font-family: "Lexend Mega", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 100;
+            font-style: normal;
+        }
+
+        .about-section {
+            background-color: #B0CE88;
+            position: relative;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+        }
+
+        .about-section img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .about-content {
+            position: relative;
+            z-index: 2;
+            background: rgba(255, 255, 255, 0.95);
+            padding: 50px;
+            border-radius: 20px;
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);
+            margin-left: auto;
+            margin-right: 50px;
+            max-width: 650px;
+            text-align: left;
+            font-family: 'Lexend Mega';
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .about-content h1 {
+            color: rgb(55, 105, 4);
+            margin-bottom: 25px;
+        }
+
+        .about-content h5 {
+            color: #333;
+            font-weight: 400;
+            line-height: 1.8;
+        }
+
+        .achievement-section {
+            position: relative;
+            min-height: 100vh;
+            padding: 60px 20px;
+        }
+
+        .achievement-text {
+            text-align: center;
+            margin-bottom: 40px;
+            font-family: 'Lexend Mega', serif;
+            position: relative;
+            z-index: 2;
+            color: white;
+        }
+        .experience-text {
+            text-align: center;
+            margin-bottom: 40px;
+            font-family: 'Lexend Mega', serif;
+            position: relative;
+            z-index: 2;
+            color: black;
+        }
+
+        @media (max-width: 768px) {
+            .about-content {
+                margin-right: 20px;
+                margin-left: 20px;
+                padding: 30px 25px;
+                text-align: center;
+                max-width: none;
+            }
+        }
+        .card-title {
+            font-family: 'Lexend Mega', serif;
+
+        }
+
+
+        .card-text {
+            font-family: open sans-serif, sans-serif;
+            font-size: 15px;
+            text-align: justify;
+        }
+
+        .hover-card {
+            transition: all 0.3s ease;
+        }
+        
+        .social-icon {
+            transition: all 0.3s ease;
+        }
+        
+        .fade-in {
+            animation: fadeIn 1s ease-in;
+        }
+        
+        .fade-in-delayed {
+            animation: fadeIn 1s ease-in 0.5s both;
+        }
+        
+        .slide-in {
+            animation: slideIn 1s ease-out;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateX(-50px); }
+            to { opacity: 1; transform: translateX(0); }
+        }
+        
+        .scroll-btn {
+            transition: all 0.3s ease;
+        }
+        
+        .scroll-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(55, 105, 4, 0.3);
+        }
+        
+        .nav-link.active {
+            color: rgb(55, 105, 4) !important;
+        }
