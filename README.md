@@ -1,4 +1,5 @@
 # 🌐 My Portfolio – Nabil Akbar  
+**Nama:** Nabil Akbar  
 **Kelas:** 2024C  
 **NIM:** 24051204074  
 **Mata Kuliah:** Pemrograman Berbasis Platform (PBP) – Semester Ganjil 2025/2026  
@@ -14,7 +15,7 @@ Tujuan dari proyek ini adalah untuk menunjukkan pemahaman dalam membangun websit
 
 ---
 
-## 🛠️ Teknologi yang Digunakan  
+## 🛠️ Bahasa Pemograman / Framework yang Digunakan  
 - **HTML5** → Struktur dasar halaman  
 - **CSS buatan sendiri** → Styling khusus pada header, footer, dan beberapa elemen card  
 - **Bootstrap 5.3.8** → Framework CSS untuk layout responsif  
@@ -33,7 +34,21 @@ Tambahan file:
 - Folder `img/` → Menyimpan seluruh aset gambar  
 
 ---
+## 📚 Cara Menggunakan / Fork Proyek Ini  
 
+Jika kamu ingin menggunakan atau mengembangkan website portofolio ini sebagai dasar proyekmu sendiri, ikuti langkah-langkah berikut:  
+
+### 🔁 1. **Fork Repository GitHub**
+1. Buka link repository: [https://github.com/njhbil/myportofolio](https://github.com/njhbil/myportofolio)  
+2. Klik tombol **Fork** (pojok kanan atas) untuk menyalin repository ke akun GitHub kamu sendiri.  
+3. Setelah selesai, kamu akan memiliki salinan repository ini di akunmu.  
+
+### 💻 2. **Clone ke Komputer Lokal**
+Buka terminal atau Git Bash, lalu jalankan perintah:
+(```bash)
+git clone https://github.com/<username-kamu>/myportofolio.git
+
+---
 ## 🖼️ Screenshot (Preview)
 
 Berikut beberapa tampilan dari website portofolio saya:
