@@ -1,5 +1,5 @@
 # 🌐 My Portfolio – Nabil Akbar  
-**Kelas:** 2024A  
+**Kelas:** 2024C  
 **NIM:** 24051204074  
 **Mata Kuliah:** Pemrograman Berbasis Platform (PBP) – Semester Ganjil 2025/2026  
 **Judul Proyek:** Website Portofolio Pribadi  
